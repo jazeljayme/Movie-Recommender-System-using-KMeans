@@ -1,0 +1,1 @@
+# IMDB scraper script inspired by SkeyRahaman 2019 (GitHub)
